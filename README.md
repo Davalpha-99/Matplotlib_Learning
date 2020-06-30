@@ -1,4 +1,4 @@
-# Matplotlib_Learning [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4f12671bab8e42d388206c6a4ab89256)](https://www.codacy.com/manual/berlin.7.11.99/Matplotlib_Learning?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=deepanshu-Raj/Matplotlib_Learning&amp;utm_campaign=Badge_Grade)
+# Matplotlib_Learning 
 created by-Deepanshu Raj.
 Date-9/04/2020.
 ---------------------------------------------------------
